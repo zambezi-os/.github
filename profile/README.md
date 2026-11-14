@@ -1,5 +1,7 @@
 # ZambeziOS
 
+**English** | [Português](README.pt.md)
+
 Custom embedded Linux operating system built with Buildroot —
 a minimal, reproducible platform for gaming devices.
 Built for devices that keep hardware alive longer.
